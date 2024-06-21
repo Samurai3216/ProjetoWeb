@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    
+    }
+    header{
+        border: 2px solid black;
+        width: 97vw;
+        height: 80px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: chocolate;
+        padding: 20px;
+        
+    }
+    ul {
+        list-style-type: none;
+        padding: 0;
+    
+    }
+        
+        body {
+            font-family: Arial, sans-serif;
+            background-color: burlywood;
+            padding: 20px;
+
+          
+        }
+        
+        h1 {
+            color: brown;
+        }
+        
+        p {
+            font-size: 18px;
+    line-height: 1.6;
+    text-align: justify;
+    text-indent: 20px;
+        }
+        
+        ul {
+            display: flex;
+            gap: 20px;
+            list-style-type: none;
+            padding: 0;
+        }
+        
+        a {
+            text-decoration: none;
+            color: #32b3ee;
+            font-weight: bold;
+        }
+        
+        a:hover {
+            color: rgb(94, 37, 0);
+        }
+
+        li{
+            margin: 10;
+        }
+
+        
+        main {
+    
+            margin: 10px 100px;
+            padding: 20px;
+        }
+
+       .h1Espeon{
+        color: rgb(253, 85, 150);
+       }
+
+       .h1Flareon{
+        color: rgb(255, 106, 6);
+       }
+       .h1Glaceon{
+        color: rgb(6, 255, 243);
+       }
+       .h1Joelton{
+        color: rgb(161, 151, 0);
+       }
+       .h1Leafeon{
+        color: rgb(21, 179, 0);
+       }
+       .h1Sylveon{
+        color: rgb(255, 46, 210);
+       }
+       .h1Umbreon{
+        color: rgb(0, 0, 0);
+       }
+       .h1Vaporeon{
+        color: rgb(0, 153, 255);
+       }
+
+
+       

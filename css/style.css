@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    
+    }
+    header{
+        border: 2px solid black;
+        width: 96vw;
+        height: 80px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: chocolate;
+        padding: 20px;
+        text-align: left;
+    }
+    ul {
+        list-style-type: none;
+        padding: 0;
+    
+    }
+        
+        .evi {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            padding: 20px;
+            background-color: antiquewhite;
+          
+        }
+
+        body{
+            font-family: Arial, sans-serif;
+            background-color: burlywood;
+            padding: 20px;
+            background-color: burlywood;
+          
+        }
+        
+        h1 {
+            color: brown;
+        }
+        
+        p {
+            font-size: 18px;
+             line-height: 1.6;
+             text-align: justify;
+             text-indent: 20px;
+        }
+        
+        ul {
+            display: flex;
+            gap: 20px;
+            list-style-type: none;
+            padding: 0;
+            justify-content: space-between;
+        }
+        
+        a {
+            text-decoration: none;
+            color: #3f1700;
+            font-weight: bold;
+        }
+        
+        a:hover {
+            color: rgb(0, 111, 185);
+        }
+
+        li{
+            margin: 10;
+        }
+
+        
+        main {
+    
+            margin: 10px 100px;
+            padding: 20px;
+        }
+        
+        h5{
+            color: burlywood;
+        }
+        hr{
+            color: burlywood;
+        }
+        h3{
+            
+            font-size: 40px;
+            color: rgb(0, 0, 0);
+        }
+
+       
+        .header-cont{
+            border: 2px solid black;
+            width: 97vw;
+            height: 80px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: rgb(255, 189, 142);
+            padding: 20px;
+            text-align: left;
+        }
